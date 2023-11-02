@@ -21,3 +21,5 @@
 ![1](/readme/ex_snake.png)
 
 - Play: [https://yjyoon-dev.github.io/games/snake.html](https://yjyoon-dev.github.io/games/snake.html)
+
+😎winterflw -> 당직간 코드 수정해서 업로드 예정!
